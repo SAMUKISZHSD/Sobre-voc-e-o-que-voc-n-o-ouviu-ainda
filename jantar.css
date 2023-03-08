@@ -1,0 +1,43 @@
+body{
+    margin: 1%;
+    padding: 0%;
+    background: rgb(3,110,88);
+background: linear-gradient(180deg, rgba(3,110,88,1) 0%, rgba(0,113,80,1) 35%, rgba(1,145,119,1) 100%);
+   
+
+   }
+
+.jantarespecial{
+    text-align: center;
+    font-size:-100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    
+}
+
+p{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+  }
+
+  img{
+    display: flex;
+    align-items: center;
+    border-radius: 5%;
+    
+  }
+
+.local{
+  color: white;
+}
+
+.local1{
+  color: white;
+}
+h1{
+  color: white;
+}
